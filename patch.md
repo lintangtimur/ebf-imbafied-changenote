@@ -177,6 +177,23 @@
 - Riki trick of trade scepter attack increase from 4 to 7
 - trick of trade bonus agi increase from 70/75/80/85/90/95/100 --> 100/125/150/175/200/250/350
 
+## Elder Titan
+- ET earth splitter amplified by spel amp
+
+## Techies
+- Techies land mines charge increase from 6 to 15
+
+## Necropos
+- heartstopper aura amplified by spell
+- heartstopper screpter from 450 to 650
+- heartstopper decay from 0.52/0.6/0.68/0.76/0.84/0.92/1.00 to 0.6/1.2/1.9/2.1/2.5/2.9/3.9
+
+## Abaddon
+- apotic shield from magical to pure
+- apotic shield barrier increase
+- deatch coil missile speed
+- borrowed time duration increase
+
 <div align="center">
   <h1>Bosses</h1>
 </div>
