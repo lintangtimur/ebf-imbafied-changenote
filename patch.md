@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.14 - 12/05/2023
+> EBF - Imbafied 0.0.15 - 12/06/2023
 <style>
   body {
   background-color: #151618;
@@ -6,10 +6,42 @@
   }
 </style>
 
+<div align="center">
+  <h1>6 December 2023</h1>
+</div>
+
+## Bottle
+- Initial charges from 3 -> 6 Max charges 6
+
+## Boss Golem
+- Attack rate from 3 -> 1.5
+- MS from 100 -> 200
+- Turn rate from 0.2 -> 0.5
+- Rock throw speed from 800 -> 900
+- Rock throw radius from 400 500 600 -> 800 1000 1200
+
+
+## Nightmare Map
+### Round 1
+- Max gold from 1500 -> 10000
+- Fixed XP from 500 -> 2000
+### Round 2
+- Max gold from 650 -> 1000
+- Total spawn kobold serf from 12 -> 40
+- Unit spawn kobold serf per wave from 3 -> 20
+
+
+<div align="center">
+  <br>
+  <h1>Before 6 December 2023</h1>
+</div>
+
 
 <div align="center">
   <h1>Items</h1>
 </div>
+
+
 
 ## revenant of brooch
 - number_of_attacks increase from 4 to 10
