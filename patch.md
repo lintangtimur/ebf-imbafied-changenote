@@ -5,6 +5,11 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+<div align="center">
+  <h1>8 December 2023</h1>
+</div>
+
+- Nightmare map buyback cooldown from 30min to 10min
 
 <div align="center">
   <h1>6 December 2023</h1>
