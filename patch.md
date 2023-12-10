@@ -1,10 +1,27 @@
-> EBF - Imbafied 0.0.15 - 12/06/2023
+> EBF - Imbafied 0.0.17 - 12/12/2023
 <style>
   body {
   background-color: #151618;
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+<div align="center">
+  <h1>12 December 2023</h1>
+</div>
+
+## UI
+- Added winstreak in hero selection phase. This winstreak appear below your hero rank
+
+## Alchemist too OP (nerf abit his gold bonus)
+- Berserk Potion duration from 10 to 12
+- Berserk Potion AS from 50 60 70 80 90 100 -> 100 120 130 140 150 160
+- Berserk Potion MS from 30 -> 50
+- Acid spray radius from 475 525 575 625 675 725 750 --> 1200
+- Bonus gold from 1000% -> 100%
+- Bounty multiplier from 10 -> 100
+
+
+
 <div align="center">
   <h1>8 December 2023</h1>
 </div>
