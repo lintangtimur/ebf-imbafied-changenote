@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.17 - 12/12/2023
+> EBF - Imbafied 0.0.17 - 12/11/2023
 <style>
   body {
   background-color: #151618;
@@ -6,7 +6,113 @@
   }
 </style>
 <div align="center">
-  <h1>12 December 2023</h1>
+  <h1>11 December 2023</h1>
+</div>
+
+<div align="center">
+  <h1>Boss and Round</h1>
+</div>
+
+## Round 4
+### Zombie spitter 
+- base health from 4400 -> 5000
+- mana regen from 5 -> 10
+- acid spit radius from 250 -> 600
+
+## Round 5
+### Bloodrite 
+- radius from 600 -> 800
+- damage from 1750 -> 2250
+
+## Round 7
+### clockwerk droid
+- rocket flare mana cost from 50 -> 30
+- rocket flare speed from 1250 -> 2500
+- rocket flare dmg reduced from 625 -> 500
+- rocket flare cd from 3.75 3.25 2.75 -> 0.5
+
+## Round 8
+### Tidehunter 
+- attack rate from 3.6 -> 1.5
+- ms from 275 -> 325
+- base health from 60k -> 70k
+- ravage radius from 1250 -> 1500
+- ravage cd from 60 -> 40
+- ravage mana cost from 325 -> 250
+
+## Round 9
+### Roshan
+- fire breath cd from 12 -> 10
+- fire breath channel time from 2.3 -> 6
+- fire breath rotation angle from 90 -> 180
+
+## Round 10
+- Split earth radius from 175 -> 300
+
+## Round 12
+- Added boss clockwerk droid
+
+## Round 13
+- Added boss slark rogue (bloodseeker)
+
+## Round 14
+- Added boss forest guardian (treant)
+
+## Round 16
+- Added boss forest guardian (treant)
+- Death propet split earth radius from 325 -> 600
+
+## Round 19 (nyx) - be carefull
+### Global impale
+- cd from 90 -> 45
+- delay from 1.5 -> 1
+- impact radius from 1000 -> 2000
+- impale speed from 800 -> 1200
+- impale duration from 7.5 -> 9
+- impale max target from 3 -> 5
+
+<div align="center">
+  <h1>Heroes</h1>
+</div>
+
+## Primal Beast
+### Uproar(Scepter)
+- roar duration from 7 -> 9
+- projectile per stack from 2 -> 6
+- projectile width from 75 -> 150
+- projectile speed from 500 -> 800
+- max split from 2 -> 10
+- projectile waves from 3 -> 6
+
+## Gyrocopter
+- Rocket Barrage radius from 400 -> 600
+- Rocket Barrage rocket per second from 10 -> 15
+- Flak Cannon radius from 1000 -> 2000
+- Flak Cannon max attack from 6 8 10 12 14 16 18 -> 12 14 16 18 20 22 24
+- Flak Cannon projectil speed from 800 -> 1000
+- Flak Canon scepter radius from 700 -> 900
+- Calm down radius from 600 -> 900
+
+## Phantom Assassin
+- Fan of Knives radius from 550 -> 1000
+- Projectile speed from 1000 -> 1200
+- Phantom Strike bonus AS from 80 120 180 240 320 380 460 -> 120 180 300 400 500 600 700
+- Coup de Grace crit chance from 20% to 50%
+- Stifling dagger talent lv 25 from 3 -> 6
+
+## Magnus
+- Shockwave cast range from 1200 -> 1500
+- Shockwave speed from 900 -> 1000
+- Shockwave width from 200 -> 500
+- Empower bonus dmg from 30 40 50 60 70 80 90 -> 40 50 60 70 80 90 120
+- Empower cleave distance from 650 -> 800
+- Skewer pierce immunity
+- Skewer speed from 900 -> 1200
+- Skewer radius from 145 -> 300
+- Reverse Polarity pull radius from 400 450 500 550 600 800 -> 700 750 800 900 100 1200
+
+<div align="center">
+  <h1>10 December 2023</h1>
 </div>
 
 ## UI
