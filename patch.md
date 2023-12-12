@@ -2,9 +2,54 @@
 <style>
   body {
   background-color: #151618;
+  font-size: clamp(17px,1.5vw,19px);
+  font-family: "Radiance","Noto Sans",sans-serif;
   color: rgba(187,187,187,.9333333333);
+  
   }
 </style>
+
+<div align="center">
+  <h1>12 December 2023</h1>
+</div>
+
+## Viper
+- Poison Attack reduce magic resistance from 4 5 6 7 8 9 10 --> 8 9 10 11 12 13 14
+- Poison Attack max stack from 5 to 7
+- Nethertoxin duration from 4 to 8
+- Nethertoxin radius from 400 to 800
+- Corrosive Skin magic resist from 10 15 20 25 30 35 40 -> 20 25 30 35 40 45 50
+- Viper Strike cast range from 500 -> 800
+- Viper Strike duration from 5 to 5
+
+## Juggernaut 
+- Blade Dance crit chance from 20 25 30 35 40 45 50 -> 50 
+- Blade Dance crit multiplier from 190 200 210 220 230 240 250 -> 220 250 280 310 350 400 450  
+- Blade Fury radius from 260 -> 500  
+- healing ward aura radius from 500 -> 700 
+- omnislash cd from 130 -> 100 
+- omnislash attack rate multiplier from 1.5 -> 3 
+- omnislash bonus AS from 40 to 800 
+- omnislash duration from 3 3.25 3.5 3.75 4.0 4.25 -> 7 
+- swiftslah cd from 20 -> 15 
+- swiftslah duration from 0.8 to 3
+
+<div align="center">
+  <h1>Bosses</h1>
+</div>
+
+- Zombie spitter base HP from 5000 -> 50k 
+- Zombie spitter MS from 85 -> 250 
+- Slark thug armor from -3 to 30 
+- slark thug base HP from 45k to 150k 
+- Slark rogue base HP from 27k to 100k 
+- Boss Lifestealer armor from 7.8 to 20 
+- Boss Lifestealer damage min from 650 -> 800 
+- Boss Lifestealer damage max from 800 -> 1000 
+- Boss Lifestealer base AS from 300 -> 350 
+- Boss Lifestealer attack rate from 2.4 -> 1,8 
+- Boss Lifestealer base HP from 43610 -> 120k
+
 <div align="center">
   <h1>11 December 2023</h1>
 </div>
