@@ -13,18 +13,18 @@
   <h1>13 December 2023</h1>
 </div>
 
-## Nightmare map
-#### Items
-- Added aegis and moonshard
-- moonshard cost 20.000, bonus AS = 1000
-- aegis max stock is 2, restock time is 5 min, cost 2000
+## Nightmare Map
+### Items
+- Added Aegis and Moon Shard.
+- Moon Shard costs 20,000 gold, providing a bonus Attack Speed of 1000.
+- Aegis maximum stock is 2, restock time is 5 minutes, and it costs 2000 gold.
 
-## Troll warlord
-- Fervor AS from 15 20 25 30 35 40 45 --> 20 30 40 50 60 70 80
-- Fervor max stacks from 12 --> 15
-- Battle Trance duration from 6.5 to 8
-- Battle Trance cd from 90 80 70 66.1 62.2 58.3 --> 80 70 60 50 40 35 30
-- Battle trance bonus AS from 140 170 200 230 260 290 --> 600
+## Troll Warlord
+- Fervor Attack Speed: 15/20/25/30/35/40/45 changed to 20/30/40/50/60/70/80.
+- Fervor maximum stacks increased from 12 to 15.
+- Battle Trance duration increased from 6.5 to 8 seconds.
+- Battle Trance cooldown changed from 90/80/70/66.1/62.2/58.3 to 80/70/60/50/40/35/30 seconds.
+- Battle Trance bonus Attack Speed changed from 140/170/200/230/260/290 to 600.
 
 <div align="center">
   <h1>12 December 2023</h1>
