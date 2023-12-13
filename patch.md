@@ -17,55 +17,79 @@
 ### Items
 - Added Aegis and Moon Shard.
 - Moon Shard costs 20,000 gold, providing a bonus Attack Speed of 1000.
-- Aegis maximum stock is 2, restock time is 5 minutes, and it costs 2000 gold.
+- Aegis
+  - Maximum stock is 2.
+  - Restock time is 5 minutes.
+  - Costs 2000 gold.
 
 ## Troll Warlord
-- Fervor Attack Speed: 15/20/25/30/35/40/45 changed to 20/30/40/50/60/70/80.
-- Fervor maximum stacks increased from 12 to 15.
-- Battle Trance duration increased from 6.5 to 8 seconds.
-- Battle Trance cooldown changed from 90/80/70/66.1/62.2/58.3 to 80/70/60/50/40/35/30 seconds.
-- Battle Trance bonus Attack Speed changed from 140/170/200/230/260/290 to 600.
+- Fervor
+  - Attack Speed: 15/20/25/30/35/40/45 changed to 20/30/40/50/60/70/80.
+  - Maximum stacks increased from 12 to 15.
+- Battle Trance
+  - Duration increased from 6.5 to 8 seconds.
+  - Cooldown changed from 90/80/70/66.1/62.2/58.3 to 80/70/60/50/40/35/30 seconds.
+  - Bonus Attack Speed changed from 140/170/200/230/260/290 to 600.
+
 
 <div align="center">
   <h1>12 December 2023</h1>
 </div>
 
 ## Viper
-- Poison Attack reduce magic resistance from 4 5 6 7 8 9 10 --> 8 9 10 11 12 13 14
-- Poison Attack max stack from 5 to 7
-- Nethertoxin duration from 4 to 8
-- Nethertoxin radius from 400 to 800
-- Corrosive Skin magic resist from 10 15 20 25 30 35 40 -> 20 25 30 35 40 45 50
-- Viper Strike cast range from 500 -> 800
-- Viper Strike duration from 5 to 5
+- **Poison Attack:**
+  - Reduce magic resistance from 4/5/6/7/8/9/10 to 8/9/10/11/12/13/14.
+  - Maximum stack increased from 5 to 7.
+- **Nethertoxin:**
+  - Duration increased from 4 to 8.
+  - Radius increased from 400 to 800.
+- **Corrosive Skin:**
+  - Magic resist changed from 10/15/20/25/30/35/40 to 20/25/30/35/40/45/50.
+- **Viper Strike:**
+  - Cast range increased from 500 to 800.
+  - Duration remains at 5.
 
-## Juggernaut 
-- Blade Dance crit chance from 20 25 30 35 40 45 50 -> 50 
-- Blade Dance crit multiplier from 190 200 210 220 230 240 250 -> 220 250 280 310 350 400 450  
-- Blade Fury radius from 260 -> 500  
-- healing ward aura radius from 500 -> 700 
-- omnislash cd from 130 -> 100 
-- omnislash attack rate multiplier from 1.5 -> 3 
-- omnislash bonus AS from 40 to 800 
-- omnislash duration from 3 3.25 3.5 3.75 4.0 4.25 -> 7 
-- swiftslah cd from 20 -> 15 
-- swiftslah duration from 0.8 to 3
+## Juggernaut
+- **Blade Dance:**
+  - Crit chance changed from 20/25/30/35/40/45/50 to 50.
+  - Crit multiplier changed from 190/200/210/220/230/240/250 to 220/250/280/310/350/400/450.
+- **Blade Fury:**
+  - Radius increased from 260 to 500.
+- **Healing Ward:**
+  - Aura radius increased from 500 to 700.
+- **Omnislash:**
+  - Cooldown reduced from 130 to 100.
+  - Attack rate multiplier increased from 1.5 to 3.
+  - Bonus Attack Speed increased from 40 to 800.
+  - Duration increased from 3/3.25/3.5/3.75/4.0/4.25 to 7.
+- **Swiftslash:**
+  - Cooldown reduced from 20 to 15.
+  - Duration increased from 0.8 to 3.
+
 
 <div align="center">
   <h1>Bosses</h1>
 </div>
 
-- Zombie spitter base HP from 5000 -> 50k 
-- Zombie spitter MS from 85 -> 250 
-- Slark thug armor from -3 to 30 
-- slark thug base HP from 45k to 150k 
-- Slark rogue base HP from 27k to 100k 
-- Boss Lifestealer armor from 7.8 to 20 
-- Boss Lifestealer damage min from 650 -> 800 
-- Boss Lifestealer damage max from 800 -> 1000 
-- Boss Lifestealer base AS from 300 -> 350 
-- Boss Lifestealer attack rate from 2.4 -> 1,8 
-- Boss Lifestealer base HP from 43610 -> 120k
+### Zombie Spitter
+- Base HP: <span style="color:green">5000</span> → <span style="color:green">50,000</span>
+- MS: <span style="color:green">85</span> → <span style="color:green">250</span>
+
+### Slark Thug
+- Armor: <span style="color:green">-3</span> → <span style="color:green">30</span>
+- Base HP: <span style="color:green">45,000</span> → <span style="color:green">150,000</span>
+
+### Slark Rogue
+- Base HP: <span style="color:green">27,000</span> → <span style="color:green">100,000</span>
+
+### Boss Lifestealer
+- Armor: <span style="color:green">7.8</span> → <span style="color:green">20</span>
+- Damage (min): <span style="color:green">650</span> → <span style="color:green">800</span>
+- Damage (max): <span style="color:green">800</span> → <span style="color:green">1000</span>
+- Base AS: <span style="color:green">300</span> → <span style="color:green">350</span>
+- Attack Rate: <span style="color:red">2.4</span> → <span style="color:red">1.8</span>
+- Base HP: <span style="color:green">43,610</span> → <span style="color:green">120,000</span>
+
 
 <div align="center">
   <h1>11 December 2023</h1>
@@ -138,40 +162,51 @@
 </div>
 
 ## Primal Beast
-### Uproar(Scepter)
-- roar duration from 7 -> 9
-- projectile per stack from 2 -> 6
-- projectile width from 75 -> 150
-- projectile speed from 500 -> 800
-- max split from 2 -> 10
-- projectile waves from 3 -> 6
+### Uproar (Scepter)
+- Roar duration increased from 7 to 9.
+- Projectiles per stack increased from 2 to 6.
+- Projectile width increased from 75 to 150.
+- Projectile speed increased from 500 to 800.
+- Max split increased from 2 to 10.
+- Projectile waves increased from 3 to 6.
 
 ## Gyrocopter
-- Rocket Barrage radius from 400 -> 600
-- Rocket Barrage rocket per second from 10 -> 15
-- Flak Cannon radius from 1000 -> 2000
-- Flak Cannon max attack from 6 8 10 12 14 16 18 -> 12 14 16 18 20 22 24
-- Flak Cannon projectil speed from 800 -> 1000
-- Flak Canon scepter radius from 700 -> 900
-- Calm down radius from 600 -> 900
+- Rocket Barrage
+  - Radius increased from 400 to 600.
+  - Rockets per second increased from 10 to 15.
+- Flak Cannon
+  - Radius increased from 1000 to 2000.
+  - Max attacks increased from 6/8/10/12/14/16/18 to 12/14/16/18/20/22/24.
+  - Projectile speed increased from 800 to 1000.
+  - Scepter radius increased from 700 to 900.
+- Calm Down
+  - Radius increased from 600 to 900.
 
 ## Phantom Assassin
-- Fan of Knives radius from 550 -> 1000
-- Projectile speed from 1000 -> 1200
-- Phantom Strike bonus AS from 80 120 180 240 320 380 460 -> 120 180 300 400 500 600 700
-- Coup de Grace crit chance from 20% to 50%
-- Stifling dagger talent lv 25 from 3 -> 6
+- Fan of Knives
+  - Radius increased from 550 to 1000.
+  - Projectile speed increased from 1000 to 1200.
+- Phantom Strike
+  - Bonus Attack Speed changed from 80/120/180/240/320/380/460 to 120/180/300/400/500/600/700.
+- Coup de Grace
+  - Crit chance increased from 20% to 50%.
+- Stifling Dagger talent at level 25 increased from 3 to 6.
 
 ## Magnus
-- Shockwave cast range from 1200 -> 1500
-- Shockwave speed from 900 -> 1000
-- Shockwave width from 200 -> 500
-- Empower bonus dmg from 30 40 50 60 70 80 90 -> 40 50 60 70 80 90 120
-- Empower cleave distance from 650 -> 800
-- Skewer pierce immunity
-- Skewer speed from 900 -> 1200
-- Skewer radius from 145 -> 300
-- Reverse Polarity pull radius from 400 450 500 550 600 800 -> 700 750 800 900 100 1200
+- Shockwave
+  - Cast range increased from 1200 to 1500.
+  - Speed increased from 900 to 1000.
+  - Width increased from 200 to 500.
+- Empower
+  - Bonus damage changed from 30/40/50/60/70/80/90 to 40/50/60/70/80/90/120.
+  - Cleave distance increased from 650 to 800.
+- Skewer
+  - Now pierces immunity.
+  - Speed increased from 900 to 1200.
+  - Radius increased from 145 to 300.
+- Reverse Polarity
+  - Pull radius increased from 400/450/500/550/600/800 to 700/750/800/900/1000/1200.
+
 
 <div align="center">
   <h1>10 December 2023</h1>
