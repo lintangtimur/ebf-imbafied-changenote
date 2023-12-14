@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.17 - 12/11/2023
+> EBF - Imbafied 0.0.17 - 12/14/2023
 <style>
   body {
   background-color: #151618;
@@ -8,6 +8,43 @@
   
   }
 </style>
+
+<div align="center">
+  <h1>14 December 2023</h1>
+</div>
+
+## Boss
+Golem, Treant, Golem Magma, Shadow Demon
+
+## Items
+### Moonshard (Dota IMBA)
+
+- Reworked Moonshard to be stackable, similar to clarity potion and healing salve.
+- Moonshard is now a consumable item.
+- Each consumed Moonshard now provides a bonus Attack Speed (AS) that is decreased by 100.
+
+### Silver Edge (Upgradeable)
+#### Level 2:
+  - Movement Speed (ms) increased from 25 to 35.
+  - Critical Hit Chance increased from 20% to 30%.
+  - Critical Hit Multiplier increased from 300 to 350.
+
+#### Level 3:
+  - Movement Speed (ms) increased from 25 to 45.
+  - Critical Hit Chance increased from 20% to 40%.
+  - Critical Hit Multiplier increased from 300 to 450.
+
+#### Level 4:
+  - Movement Speed (ms) increased from 25 to 55.
+  - Critical Hit Chance increased from 20% to 50%.
+  - Critical Hit Multiplier increased from 300 to 550.
+
+#### Level 5:
+  - Movement Speed (ms) increased from 25 to 65.
+  - Critical Hit Chance increased from 20% to 70%.
+  - Critical Hit Multiplier increased from 300 to 650.
+
+
 
 <div align="center">
   <h1>13 December 2023</h1>
