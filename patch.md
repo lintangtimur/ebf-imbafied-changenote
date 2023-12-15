@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.17 - 12/14/2023
+> EBF - Imbafied 0.0.17 - 12/15/2023
 <style>
   body {
   background-color: #151618;
@@ -8,6 +8,97 @@
   
   }
 </style>
+
+<div align="center">
+  <h1>15 December 2023</h1>
+</div>
+
+<div align="center">
+  <h1>Items</h1>
+</div>
+
+### Butterfly (Levels 2-5)
+- Cooldown reduced from 55 to 45.
+
+<div align="center">
+  <h1>Heroes</h1>
+</div>
+
+### Zeus
+- **Arc Lightning:**
+  - Increased radius from 500 to 1200.
+  - Adjusted jump count from 5/7/9/15/20/25/30 to 8/10/12/17/20/25/35.
+
+- **Lightning Bolt:**
+  - Reduced cooldown from 6 to 4.
+
+- **Heavenly Jump:**
+  - Extended hop distance from 500 to 850.
+
+- **Zeus Cloud:**
+  - Expanded cloud radius from 450 to 600.
+  - Prolonged cloud duration from 30 to 40.
+  - Shortened bolt interval from 2.5 to 1.5.
+  - Increased hit to kill from 8 to 15.
+
+
+### Winter Wyvern
+
+#### Arctic Burn:
+- **Duration:** Increased from 10 to 15.
+- **Tick Rate:** Reduced from 1 to 0.5.
+- **Percent Damage:** Adjusted from 0.85 / 1.0 / 1.15 / 1.3 / 1.45 / 1.6 / 1.75 to 1.0 / 1.4 / 1.7 / 1.8 / 2.0 / 2.5 / 3.
+- **Projectile Speed:** Increased from 500 to 800.
+- **Max Attacks:** Increased from 5 to 10.
+
+#### Winter's Curse:
+- **Radius:** Increased from 525 to 700.
+
+
+### Jakiro
+- **Dual Breath:**
+  - Speed increased from 1050 to 1500.
+
+- **Ice Path:**
+  - Cast range increased from 1200 to 2000.
+  - Path radius increased from 150 to 450.
+
+- **Liquid Fire:**
+  - Pierce immunity.
+  - Duration increased from 5 to 10.
+  - Cast range increased from 600 to 900.
+
+- **Macropyre:**
+  - Cast range increased from 1400 to 2000.
+  - Path width increased from 520 to 700.
+
+
+### Disruptor
+- **Thunder Strike:**
+  - Strikes increased from 4 to 10.
+  - Strike interval decreased from 2 to 1.
+
+- **Kinetic Field:**
+  - Cooldown reduced from 10 to 8.
+  - Transformation time decreased from 1 to 0.1.
+
+- **Static Storm:**
+  - Cooldown reduced from 60 to 40.
+  - Radius increased from 500 to 900.
+  - Pulse damage increased from 20 to 40.
+  - Duration increased from 6 to 10.
+
+### Storm Spirit
+- **Static Remnant:**
+  - Cooldown reduced from 3.5 to 2.5.
+  - Duration increased from 12 to 20.
+  - Radius increased from 235 to 400.
+  - Damage radius increased from 260 to 400.
+
+- **Ball Lightning:**
+  - Movespeed increased from 1400, 1550, 1700, 1850, 2000, 2150, 2300 to 3500.
+  - AOE increased from 200 to 400.
+  - Talent: Distance of Static Remnant reduced from 550 to 200.
 
 <div align="center">
   <h1>14 December 2023</h1>
