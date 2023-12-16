@@ -1,13 +1,90 @@
-> EBF - Imbafied 0.0.17 - 12/15/2023
+> EBF - Imbafied 0.0.17 - 12/16/2023
 <style>
   body {
   background-color: #151618;
   font-size: clamp(17px,1.5vw,19px);
   font-family: "Radiance","Noto Sans",sans-serif;
   color: rgba(187,187,187,.9333333333);
-  
   }
 </style>
+
+<div align="center">
+  <h1>16 December 2023</h1>
+</div>
+
+<div align="center">
+  <h1>Hero</h1>
+</div>
+
+## Disruptor
+- All of his skills now pierce immunity.
+
+<div align="center">
+  <h1>Items</h1>
+</div>
+
+## Skadi
+- **Level 2:**
+  - Increased bonus to all stats from 70 to 100.
+  - Enhanced bonus health from 880 to 1000.
+
+- **Level 3:**
+  - Further improved bonus to all stats from 205 to 400.
+  - Boosted bonus health from 3550 to 5500.
+
+- **Level 4:**
+  - Significantly raised bonus to all stats from 650 to 900.
+  - Substantially increased bonus health from 14500 to 19500.
+
+- **Level 5:**
+  - Drastically elevated bonus to all stats from 2000 to 3000.
+  - Sharply increased bonus health from 48000 to 60000.
+
+## Bloodstone
+- **Level 2:**
+  - Expanded bonus mana from 1450 to 1800.
+  - Duration extended to 8.
+
+- **Level 3:**
+  - Further increased bonus mana from 1850 to 2400.
+  - Extended duration to 9.
+
+- **Level 4:**
+  - Significant bonus mana boost from 2050 to 3000.
+  - Prolonged duration to 10.
+
+- **Level 5:**
+  - Substantial bonus mana increase from 6000 to 9000.
+  - Extended duration to 11.
+
+## Signet
+- **Level 1:**
+  - Increased spell amplification from 11 to 15.
+  - Extended duration from 8 to 10.
+
+- **Level 2:**
+  - Raised spell amplification from 15 to 17.
+  - Extended duration from 8 to 12.
+  - Increased max stack from 20 to 30.
+
+- **Level 3:**
+  - Further increased spell amplification from 15 to 25.
+  - Extended duration from 8 to 14.
+  - Increased max stack from 20 to 40.
+
+- **Level 4:**
+  - Drastically increased spell amplification from 15 to 40.
+  - Extended duration from 8 to 16.
+  - Increased max stack from 20 to 50.
+
+- **Level 5:**
+  - Significantly increased spell amplification from 15 to 75.
+  - Extended duration from 8 to 18.
+  - Increased max stack from 20 to 60.
+
+## Moonshard
+- Reduced cost from 20k to 18k.
+- Reduced bonus attack speed from 1000 to 700.
 
 <div align="center">
   <h1>15 December 2023</h1>
