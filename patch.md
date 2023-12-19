@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.17 - 12/16/2023
+> EBF - Imbafied 0.0.17 - 12/18/2023
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,36 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+  <h1>18 December 2023</h1>
+</div>
+
+## Dazzle
+- **Shallow Grave:**
+  - Cooldown reduced from 30 to 15.
+  - Shallow Grave cast sound edited with "I Will Survive" by Gloria Gaynor.
+
+## Faceless Void
+- **Chronosphere:**
+  - Cast sound edited with "Dio Za Warudo."
+
+## Octarine Core
+- **Level 2:**
+  - Cooldown reduction increased from 15% to 25%.
+  
+- **Level 3:**
+  - Cooldown reduction increased from 20% to 30%.
+
+- **Level 4:**
+  - Cooldown reduction increased from 25% to 40%.
+
+- **Level 5:**
+  - Cooldown reduction increased from 30% to 50%.
+
+- **Level 6:**
+  - Cooldown reduction increased from 35% to 70%.
+
 
 <div align="center">
   <h1>16 December 2023</h1>
