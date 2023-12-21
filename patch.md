@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.17 - 12/18/2023
+> EBF - Imbafied 0.0.21 - 12/21/2023
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,149 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+
+<div align="center">
+  <h1>21 December 2023</h1>
+</div>
+
+<div align="center">
+  <h1>Bosses And Round</h1>
+</div>
+
+## Round 13
+- **Slark:**
+  - Rogue unit count reduced from 5 to 4.
+
+## Round 14
+- **Treant:**
+  - Unit count reduced from 6 to 4.
+
+## Round 25
+- Added 4 Treant units.
+
+## Slark Boss
+- Armor reduced from 30 to 10.
+- Magic resist reduced from 66 to 40.
+
+## Lifestealer Boss
+- Armor reduced from 20 to 10.
+- Attack rate increased from 1.8 to 3.
+
+<div align="center">
+  <h1>Heroes</h1>
+</div>
+
+## Earthshaker
+- **Fissure:**
+  - Cast range increased from 1400 to 2400.
+  - Duration increased from 5.5 to 7.
+  - Radius increased from 225 to 425.
+  - Stun duration increased from 1.75 to 2.75.
+- **Totem**
+  - damage percentage adjusted from 225, 350, 475, 600, 725, 850, 975 to 290, 450, 500, 800, 900, 1100, 1300.
+  - Scepter distance increased from 950 to 2000.
+  - Aftershock range increased from 300 to 600.
+
+## Kunkka
+- **Tidal Wave:**
+  - Can't be dispelled, pierce immunity.
+  - Speed increased from 700 to 900.
+  - Radius adjusted from 750/800/850/900/950/1000/1050 to 900/1000/1100/1200/1300/1400/1500
+  - Duration increased from 1.75 to 2.75.
+  - Knockback duration increased from 300 to 600.
+
+- **Torrent:**
+  - Can't be dispelled, pierce immunity.
+  - Radius increased from 225 to 600.
+  - Stun duration increased from 1.6 to 2.6.
+- **Torrent Storm**
+  - Storm duration increased from 5 to 10.
+  - Storm min distance reduced from 300 to 70.
+  - Storm max distance increased from 1100 to 1800.
+- **Tidebringer**
+  - Cleave damage adjusted from 150% to 800%.
+- **Ghostship**
+  - Ghostship speed increased from 650 to 900.
+  - Ghostship cooldown reduced from 60 to 40.
+
+## Lich
+- **Frost Nova:**
+  - Radius increased from 200 to 500.
+  - Slow MS increased from -30 to -50.
+  
+- **Frost Shield:**
+  - Can't be dispelled, pierce immunity.
+  - Damage reduction adjusted from 15, 20, 25, 30, 35, 40, 45 --> 30, 40, 50, 60, 70, 80, 90.
+  - Interval reduced from 1 to 0.5.
+  - Radius increased from 600 to 900.
+  - Duration increased from 6 to 10.
+  - Talent at level 25: Bonus HP regen increased from +8000 to +16000.
+  
+- **Chain Frost:**
+  - Jumps increased from 10 to 20.
+  - Jump range increased from 600 to 1500.
+  - Projectile speed increased from 800 to 1500.
+  - Ice Sphere aura radius increased from 750 to 1500.
+  - Duration increased from 15 to 20.
+
+## Spirit Breaker
+- **Charge of Darkness:**
+  - MS increased from 275, 325, 375, 425, 475, 525, 575 --> 500, 700, 900, 1100, 1300, 1500, 1600.
+  - Stun duration increased from 2.1 to 3.
+  
+- **Bulldoze:**
+  - MS increased from 10, 15, 20, 25, 30, 35, 40 --> 50, 70, 90, 120, 140, 160, 190.
+  - Duration increased from 8 to 15.
+  
+- **Greater Bash:**
+  - Chance increased from 17% to 40%.
+  - Bonus MS increased from 17 to 40.
+  
+- **Nether Strike:**
+  - Cooldown reduced from 50 to 30.
+
+## Legion Commander
+- **Overwhelming Odds:**
+  - Radius increased from 600 to 900.
+
+- **Press the Attack:**
+  - Duration increased from 5 to 8.
+  
+- **Moment of Courage:**
+  - Chance increased from 25% to 50%.
+  - Buff duration increased from 1s to 2s.
+  
+- **Duel:**
+  - Duration increased from 6 to 8.
+  - Reward damage adjusted from 250, 400, 600, 850, 1150, 1500 --> 800, 1200, 1500, 1900, 2400, 3000.
+  - Scepter cooldown reduction increased from -60% to -80%.
+
+## Shadow Shaman
+- **Mass Serpent Ward:**
+  - Ward count increased from 15 to 25.
+  - Scepter range increased from 225 to 600.
+  - Hits to destroy increased from 5 to 15.
+  - Hits to destroy against creeps increased from 10 to 25.
+
+## Enigma
+- **Malefice:**
+  - Can't be dispelled.
+  - Stun instance increased from 3 to 6.
+  
+- **Midnight Pulse:**
+  - Radius increased from 600, 600, 600, 600, 675, 750, 825 --> 1200.
+  - Damage percent increased from 2 to 5.
+  - Duration adjusted from 9, 10, 11, 12, 12, 12, 12 --> 9, 10, 11, 12, 13, 14, 15.
+  
+- **Black Hole:**
+  - Cast range increased from 275 to 600.
+  - Radius increased from 420 to 900.
+  - Pull speed increased from 30 to 60.
+  - Duration increased from 4 to 8s.
+  - Scepter radius increased from 1200 to 2000.
+  - Scepter drag speed increased from 175 to 250.
+
 
 <div align="center">
   <h1>18 December 2023</h1>
