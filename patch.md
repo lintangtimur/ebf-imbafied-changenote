@@ -8,6 +8,38 @@
   }
 </style>
 
+<div align="center">
+  <h1>30 December 2023</h1>
+</div>
+
+## Asura Boss
+- Using 3 items: Radiance, Skadi, Asura Armor.
+
+## Omni
+- **Purification:**
+  - Heal: 1500 / 2500 / 4500 / 8500 / 18000 / 27500 / 50000 -> 2000 / 3000 / 5000 / 10000 / 20000 / 30000 / 70000.
+  - Radius: 260 -> 400.
+
+- **Repel:**
+  - Base strength: 50 / 100 / 150 / 250 / 400 / 600 / 800 -> 100 / 200 / 300 / 500 / 800 / 1200 / 1600.
+  - Base regen: 100 / 200 / 350 / 650 / 1250 / 2000 / 3500 -> 200 / 400 / 700 / 1200 / 2400 / 4000 / 7000.
+  - Strength bonus: 20 / 40 / 60 / 100 / 160 / 250 / 350 -> 40 / 80 / 120 / 200 / 320 / 500 / 700.
+  - Duration: 5 / 6 / 7 / 8 / 9 / 10 / 11 -> 8 / 9 / 10 / 11 / 12 / 13 / 14.
+  - Max charges: 2 -> 5.
+
+- **Guardian Angel:**
+  - Duration: 7 -> 10.
+  - Cast range: 900 -> 1200.
+
+## Ursa
+- **Overpower:**
+  - Max attacks: 3 / 4 / 5 / 6 / 7 / 8 / 9 -> 6 / 8 / 10 / 12 / 14 / 16 / 17.
+
+- **Enrage:**
+  - Damage reduction: 80 -> 85.
+  - Status resistance: 50 -> 60.
+  - Duration: 5 -> 7.
+
 
 <div align="center">
   <h1>21 December 2023</h1>
