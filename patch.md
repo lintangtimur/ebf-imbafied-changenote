@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.21 - 12/21/2023
+> EBF - Imbafied 0.0.22 - 7/1/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,34 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+  <h1>7 December 2024</h1>
+</div>
+
+- Fixed Cuirass passive not being shared with allies.
+- Fixed Furion's Nature Call value from vanilla version
+- Fixed Bloodseeker's
+- Fixed E-Blade mana regen.
+
+## Bosses
+- Skeleton Archer:
+  - Adjusted armor, HP, crit, and strafe attack speed.
+
+- Round 20:
+  - Magma speed increased from 400 to 500.
+
+## Shadow Demon
+- **Disseminate:**
+  - Shared damage adjusted from 10 / 12.5 / 15 / 17.5 / 20 / 22.5 / 25 to 20 / 30 / 40 / 50 / 60 / 70 / 80.
+  - Radius increased from 675 to 900.
+
+- **Demonic Purge/Demonic Cleanse Talent (Level 20):**
+  - Damage increased from 100% to 300%.
+
+- **Demonic Purge:**
+  - Charge restore time reduced from 60 to 40.
+  - Max charges increased from 3 to 5.
 
 <div align="center">
   <h1>30 December 2023</h1>
