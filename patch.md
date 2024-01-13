@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.22 - 7/1/2024
+> EBF - Imbafied 0.0.23 - 13/1/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,42 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+  <h1>13 December 2024</h1>
+</div>
+
+- **WK Aghanim: (prevent being immortal)**
+  - Delay reduced from 7 to 4.
+  - Aghanim Talent CD reduction decreased from 25% to 15%.
+  - Mortal Strike buffed.
+
+## Marci (Buffed)
+**Unleashed:**
+  - Damage type changed from magical to pure.
+  - Cooldown reduced from 60 to 40.
+  - Duration increased from 16 to 20.
+  - Charge count increased from 6 to 12.
+  - Pulse radius increased from 800 to 1000.
+  - Bonus Movement Speed increased from 15 to 50.
+
+**Sidekick:**
+  - Lifesteal percentage adjusted from 8 / 11 / 14 / 17 / 20 / 23 / 26 --> 15 / 17 / 19 / 21 / 25 / 30 / 35.
+  - Talent bonus lifesteal increased from 10% to 20%.
+
+## Clockwerk (Buffed)
+**Overclocking:**
+  - Cooldown reduced from 50 to 30.
+  - Buff duration increased from 13 to 17.
+  - Rocket Flare offset percentage reduced from 125 to 70.
+  - Total rockets increased from 2 to 10.
+  - Rocket Flare cooldown reduced from 3 to 1.
+
+## Abaddon (Nerfed, Almost Immortal)
+**Borrowed Time:**
+  - Cooldown increased from 10 to 60 / 50 / 40 / 30 / 25 / 20 / 17.
+  - Duration adjusted from 10 / 12 / 14 / 16 / 18 / 20 --> 10 / 11 / 12 / 13 / 14 / 15 / 16.
+
 
 <div align="center">
   <h1>7 December 2024</h1>
