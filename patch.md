@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.23 - 13/1/2024
+> EBF - Imbafied 0.0.24 - 14/1/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,42 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+  <h1>14 December 2024</h1>
+</div>
+
+## Tusk
+**Walrus Punch (Buffed by Request):**
+  - Bonus damage adjusted: 1000 / 2500 / 7500 / 15000 / 16500 / 18000 -> 2000 / 5000 / 15000 / 25000 / 30000 / 40000.
+  - Talent Walrus Punch bonus crit increased from 75% to 150%.
+  - Talent Snowball bonus damage increased from 50% to 150%.
+
+## Tinker (Buffed by Request)
+- **Laser:**
+  - Pierce immunity added.
+  - Miss rate increased from 50% to 70%.
+  - Bonus cast range increased from 200 to 300.
+  - Bounce radius increased from 700 to 1000.
+
+- **Heat Seeking Missile:**
+  - Damage type changed from magical to pure.
+  - Damage adjusted: 1275 / 2500 / 4600 / 7100 / 12000 / 21000 / 37000 -> 2000 / 3000 / 5000 / 8000 / 15000 / 30000 / 50000.
+  - Speed increased from 700 to 900.
+  - Target count increased from 2 to 7.
+
+## Morphling (Buffed by Request)
+- **Equalize:**
+  - Bonus Strength adjusted: 100 / 175 / 350 / 750 / 1250 / 3000 -> 200 / 250 / 450 / 850 / 1400 / 6000.
+  - Bonus Agility adjusted: 100 / 175 / 350 / 750 / 1250 / 3000 -> 200 / 250 / 500 / 850 / 1500 / 6000.
+  - Added bonus evasion: 5 / 10 / 15 / 18 / 24 / 29 / 35.
+  - Talent for Equalize bonus increased from 25% to 35%.
+
+## Troll (Nerfed by Request)
+- **Battle Trance:**
+  - Not affected by all cooldown reduction.
+  - Cooldown adjusted: 80 / 70 / 60 / 50 / 40 / 35 / 30 -> 60 / 50 / 40 / 35 / 30 / 25 / 20.
+
 
 <div align="center">
   <h1>13 December 2024</h1>
