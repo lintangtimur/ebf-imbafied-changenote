@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.24 - 14/1/2024
+> EBF - Imbafied 0.0.25 - 16/1/2024
 <style>
   body {
   background-color: #151618;
@@ -8,8 +8,43 @@
   }
 </style>
 
+
 <div align="center">
-  <h1>14 December 2024</h1>
+  <h1>16 January 2024</h1>
+</div>
+
+## Balance:
+
+To prevent lag, several abilities are now not affected by all cooldown reduction sources:
+
+- Abaddon:
+  - Aphotic Shield
+  - Borrowed Time
+- Clinkz:
+  - Burning Army
+- Undying:
+  - Tombstone
+- Bane:
+  - Fiend's Grip
+- Monkey King:
+  - Wukong's Command
+
+## Items:
+
+### New Item - Arcane Rapier
+- Bonus: 250% Spell Amp
+- Cannot be dropped
+- Only works within a range of 900 units; beyond that, it is inactive
+- Necrophos is not allowed to use the Arcane Rapier and Archmage items
+- Combining 3 Arcane Rapiers creates an Archmage Rapier with 800% Spell Amp
+
+### Wand of the Brine
+- Bubble duration adjusted from 2s to 3s
+- Total HP regen increased from 8000 to 16000
+
+
+<div align="center">
+  <h1>14 January 2024</h1>
 </div>
 
 ## Tusk
@@ -81,7 +116,7 @@
 
 
 <div align="center">
-  <h1>7 December 2024</h1>
+  <h1>7 January 2024</h1>
 </div>
 
 - Fixed Cuirass passive not being shared with allies.
