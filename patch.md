@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.25 - 16/1/2024
+> EBF - Imbafied 0.0.26 - 19/1/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,36 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+  <h1>19 January 2024</h1>
+</div>
+
+## Balance:
+
+- Midas Interest increased from 15% to 25%
+- Added reworked Riki (EBFR)
+  - Adjusted Riki talent bonus agility from 40% to 150%
+- Fixed Tempest Double for Arc Warden
+- Fixed Hoodwink Sharpshooter
+- Fixed Lone Druid becoming a vanilla hero
+  - Synergy stat share adjusted from 70 / 75 / 80 / 85 / 90 / 95 / 100 to 80 / 90 / 100 / 110 / 120 / 130 / 140
+  - Bear armor increased from +15 to +25
+  - Bear cooldown reduced from 120 to 60
+  - Bear movement speed increased from 340 to 540
+  - True Form duration increased from 60 to 75
+  - Transform time reduced from 1.9 to 1
+- Adjusted Boss Zombie Range Spitter:
+  - Armor and magic resistance decreased
+
+## Reworked Bloodseeker - Blood Rite
+Bloodseeker baptizes an area in sacred blood. After 2 seconds, the ritual completes, causing any enemies caught in its area to take damage and become silenced.
+- **Sacrificial Lamb:**
+  - Enemies that die while silenced by Blood Rite will reduce Bloodseeker's cooldowns by 25%.
+- **Nanauatzin:**
+  - Bloodseeker gains 75% of the total damage dealt by Blood Rite as maximum and current health for 7.
+
+Talent lv 10 changed from Blood rite spell amp --> Blood Rite Triplicate (left/right/front of cast area)
 
 
 <div align="center">
