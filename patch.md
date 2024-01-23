@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.26 - 19/1/2024
+> EBF - Imbafied 0.0.27 - 24/1/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,84 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+  <h1>24 January 2024</h1>
+</div>
+
+## Lycan
+- **Wolves Talent:**
+  - Bonus HP increased from 67,000 to 97,000
+- **Howl:**
+  - Pierce immunity and cannot be dispelled
+  - Duration increased from 10 to 15
+
+## QOP
+- **Shadow Strike:**
+  - Damage interval reduced from 3 to 1.5s
+- **Scream of Pain:**
+  - AOE increased from 550 to 700
+  - Projectile speed increased from 900 to 1100
+  - Damage adjusted from 840 / 1250 / 1800 / 3425 / 6890 / 13850 / 27800 to 2000 / 3000 / 4000 / 5000 / 8000 / 16000 / 40000
+- **Sonic Wave:**
+  - Distance increased from 900 to 1500
+  - Final AOE increased from 450 to 900
+  - Damage adjusted from 6380 / 13355 / 28200 / 51550 / 58200 / 63450 to 8000 / 17000 / 34000 / 60000 / 80000 / 100000
+  - Talent for Scream of Pain damage increased from 50% to 150%
+  - Talent for Sonic Wave damage increased from 50% to 150%
+
+## Sniper
+- **Headshot:**
+  - Chance increased from 40 to 70%
+- **Take Aim:**
+  - Duration increased from 3 to 6s
+- **Assassinate:**
+  - Damage adjusted from 10675 / 33500 / 91750 / 157000 / 175000 / 193000 to 20000 / 40000 / 120000 / 200000 / 250000 / 300000
+  - Animation cast reduced from 2 to 1
+
+## Weaver
+- **The Swarm:**
+  - Damage adjusted from 500 / 1050 / 1850 / 2850 / 5000 / 8000 / 15000 to 1000 / 2100 / 3600 / 5800 / 8000 / 11000 / 18000
+  - Attack rate reduced from 0.7 to 0.3
+  - Swarm count increased from 12 to 12 / 13 / 14 / 15 / 16 / 17 / 18
+  - Swarm duration increased from 16 to 20
+  - Destroy attack increased from 3 / 3 / 3 / 3 / 4 / 4 / 4 to 6 / 7 / 8 / 9 / 10 / 11 / 12
+- **Shukuchi:**
+  - Fade time reduced from 0.25 to 0
+- **Geminate Attack Talent:**
+  - Bonus increased from +1 to +3
+
+## Timbersaw
+- **Flamethrower:**
+  - DPS adjusted from 1280 / 2290 / 5350 / 6550 / 7050 / 7550 to 2000 / 4000 / 7000 / 90000 / 11000 / 14000
+- **Reactive Armor:**
+  - Stack limit increased from 30 to 50
+  - Stack duration increased from 16 to 20
+- **Chakram:**
+  - Radius increased from 200 to 400
+  - DPS adjusted from 835 / 2250 / 6375 / 8000 / 8375 / 8750 to 1200 / 3400 / 8000 / 13000 / 16000 / 18000
+
+# ITEMS
+## Item Desolator Tier 2
+- Bonus damage increased from 370 to 500
+- Minus armor reduced from -5 to -7
+- Critical chance increased from 25 to 35
+
+## Item Desolator Tier 3
+- Bonus damage increased from 1120 to 1500
+- Minus armor reduced from -7 to -9
+- Critical chance increased from 30 to 40
+
+## Item Desolator Tier 4
+- Bonus damage increased from 5100 to 8000
+- Minus armor reduced from -9 to -11
+- Critical chance increased from 35 to 50
+
+## Item Desolator Tier 5
+- Bonus damage increased from 18900 to 25000
+- Minus armor reduced from -11 to -15
+- Critical chance increased from 40 to 60
+
 
 <div align="center">
   <h1>19 January 2024</h1>
