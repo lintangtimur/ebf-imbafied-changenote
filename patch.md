@@ -9,6 +9,81 @@
 </style>
 
 <div align="center">
+  <h1>25 January 2024</h1>
+</div>
+
+# Rework Enigma IMBA (Midnight Pulse, Blackhole)
+```testing reworked enigma ^_^```
+
+### Midnight Pulse
+- <font color='#FF7800'>Gravity Falls:</font> Counts as a gravity force where units are pulled towards. Midnight Pulse is stronger than Enigma as a gravity source, but is weaker than Black Hole
+
+### Blackhole (Tobiwan)
+- <font color='#FF7800'>Singularity:</font> Each hero caught in the Black Hole grants a stack of Singularity. Singularity stacks are accumulated infinitely, increasing Black Hole's radius. Also increases pull radius when granted Aghanim's Shard. Singularity stacks are lost in the following ways (rounded up):
+    - Disabled during channel: <b>70%</b> of stacks
+    - Manual interruption of channel: <b>25%</b> of stacks
+    - Death: <b>10%</b> of stacks. 
+- <font color='#FF7800'>Event Horizon: </font>Upon reaching <b>50</b> or more stacks of Singularity, Black Hole begins to damage and stun all enemy's (GLOBAL)
+- 1 Stack of singularity equal to 1.5% cdr
+
+  #### Scepter
+  - Black Hole deals additional damage equivalent to 3.5% of the unit's Max Health per second.
+  #### Shard
+  - <font color='#FF7800'>Pull radius increases with Singularity stacks count.</font>
+
+### Talent
+Level 25: Void of Death: <Br>
+Whenever Enigma dies, a Black hole is cast on his location for 2.3 seconds.
+
+## Fix
+- Bloodseeker bloodrite max level to 7 instead of 4
+
+## Forgot to write changelog
+- Trinity Rapier damage from 42500 to 92500
+
+<div align="center">
+  <h1>24 January 2024</h1>
+</div>
+
+## Rework Lina
+### Light Strike Array (LSA)
+Summons a column of flames that damages and stuns enemies.
+<br><br><font color='#FF7800'>Blast Matrix Designation:</font> 0.5 + 0.3 seconds after the initial Light Strike Array lands, <font color='#FF7800'>8</font> additional pillars are spawned 200 radius from and around the original explosion.
+
+### Talent:
+- Level 10 (left): <font color='#FF7800'>Magma array</font>: Light Strike Arrays cause magma to erupt from the ground, dealing minor damage for duration of the stun.
+
+## Rework Magnus
+### Shockwave
+
+Magnus sends out a wave of force, damaging enemy units in a line.
+- <font color='#FF7800'>Polarize:</font> Polarizes any enemy heroes hit. Stacks with, but does not refresh, itself.
+
+- <font color='#FF7800'>Resonate:</font> Up to <b>1/2/3/4/5/6/7</b> polarized enemies hit by shockwave will spawn 4 secondary shockwaves diagonally, each dealing <b>1275/2050/2985/4835/9400/18500/41000</b> damage, and reaching up to half of the length of the Shockwave.
+
+- <font color='#FF7800'>Magnetize:</font> Each shockwave applies a Magnetize stack on its targets. Magnetize stacks are depleted once every 3 seconds, and it continue until no more stacks are left. When a Magnetize stack is depleted, the target emits a Shockwave towards the nearest enemy. Shockwaves emitted from Magnetize only deal 25% of the Shockwave's damage.
+
+### Empower
+Gives an allied unit bonus damage and cleave on attack. Magnus receives 2 times the bonus cleave.
+- <font color='#FF7800'>Overpowered:</font> Empower is always active on Magnus, and is not dispelled by Spell Immunity.
+
+- <font color='#FF7800'>Universal Magnetism:</font> Casting this on ranged allies grants them <b>360</b> radius splash damage attack at <b>5%/10%/15%/20%</b> efficiency.
+
+- <font color='#FF7800'>Supercharge:</font> When using Empower on an already empowered ally, they gain <b>50%/75%/100%/125%</b> movement and <b>100/200/300/400</b> attack speed.
+
+### Scepter
+- <font color='#FF7800'>Increases travel distance and speed, and causes Shockwave to come back. Return wave slows units, but deals half damage to creeps.</font>
+- <font color='#FF7800'>Continuously applies a reduced-duration Empower to allies. Lingers for 12 seconds after leaving the radius.</font> (testing)
+
+## Talent:
+- Level 10 (right): <font color='#FF7800'>Uber Charge</font>
+Applying Empower on a Supercharged target makes them Ubercharged for 8 seconds, making their attacks spawn Shockwaves 1 second cooldown between Shockwaves).
+
+- Level 20 (right): <font color='#FF7800'> Showckwave secondary half-range waves</font>.
+Shockwave now always spawns four secondary shockwaves in a cross pattern halfway through its travel distance.
+
+
+<div align="center">
   <h1>24 January 2024</h1>
 </div>
 
