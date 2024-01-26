@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.27 - 24/1/2024
+> EBF - Imbafied 0.0.27 - 26/1/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,21 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+    <h1>26 January 2024</h1>
+</div>
+
+## Hero
+Kardel - Assassinate
+- <font color='#FF7800'>True Assassination</font>: Fires 5 projectiles at the target (talent)
+- Assassinate knockbacks all units hit (talent)
+Sniper locks onto a target enemy unit and, after a short aiming duration of 1 seconds, fires a devastating shot that deals damage at long range and mini-stuns the target.
+  - <font color='#FF7800'>Armor Piercing Bullet:</font> The shot also deals damage and fully affects all enemies in its path.
+
+## Item
+### Holyavenger and bahamut fang 
+- (Flutter Debuff) Get flying state and bonus movespeed for 4s when activated
 
 <div align="center">
   <h1>25 January 2024</h1>
