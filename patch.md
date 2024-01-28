@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.27 - 26/1/2024
+> EBF - Imbafied 0.0.28 - 28/1/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,46 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+    <h1>28 January 2024</h1>
+</div>
+
+## Sniper
+- **Assassinate:**
+  - Cooldown increased from 5 to 10
+- **Assassinate Scepter:**
+  - Stun duration reduced
+
+## Abaddon
+- Fixed Aghanim's Scepter duration
+
+## Juggernaut
+- **Omnislash:**
+  - Cooldown reduced from 110 to 25s (not affected by CDR)
+  - Rate multiplier increased from 3 to 5
+
+## Lion
+- **Finger of Death (FOD) Scepter:**
+  - Damage bonus increased from 50% to 250%
+  - Damage per intelligence increased from 5 to 15
+
+## Nature's Prophet (NP)
+- **Ultimate (Wrath of Nature):**
+  - Max bounce increased from 10/12/14/16/18/20 to 15/18/22/25/30/35
+  - Damage adjusted from 2275/5025/11200/21700/26100/30500 to 5000/8000/16000/30000/40000/60000
+  - Talent bonus increased from 50% to 150%
+  - Damage per bounce increased from 10% to 50%
+
+## Ursa
+- **Fury Swipes:**
+  - Damage adjusted from 67/125/225/295/365/440/512 to 100/175/300/500/700/800/1000
+  - Bonus damage increased from 25% to 75%
+
+## Moonshard
+- Cost reduced to 10k
+## Midas
+- Interest rate from 25% to 35%
 
 <div align="center">
     <h1>26 January 2024</h1>
