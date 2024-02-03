@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.28 - 28/1/2024
+> EBF - Imbafied 0.0.29 - 3/2/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,38 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+    <h1>3 Feb 2024</h1>
+</div>
+
+## Faceless Void
+- **Time Lock:**
+  - Damage type changed from magical to physical
+  - Time lock percentage adjusted to 15/20/25/30/35/40/45
+
+## Muerta
+- **Gunslinger:**
+  - Percentage adjusted to 30/35/40/45/55/65/80
+- **Pierce the Veil:**
+  - Cooldown reduced from 45 to 25
+  - Duration increased from 8 to 12
+  - Base damage percentage increased from 100% to 150%
+  - Bonus damage adjusted from 600/1200/1800/2500/3500/4500 to 1200/2400/3600/5000/7000/9000
+  - Shard percentage increased from 30% to 50%
+
+## Cape of Magnus
+- Spell lifesteal adjusted:
+  - From 10 to 12
+  - From 11 to 14
+  - From 12 to 16
+  - From 13 to 20
+  - From 14 to 25
+
+## Fixed Items
+- **Cloak of the Protector:**
+  - Block chance, blocked damage for melee, and blocked damage for ranged fixed
+
 
 <div align="center">
     <h1>28 January 2024</h1>
