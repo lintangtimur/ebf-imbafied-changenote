@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.29 - 3/2/2024
+> EBF - Imbafied 0.0.30 - 13/2/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,45 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+    <h1>13 Feb 2024</h1>
+</div>
+
+### Terrorblade
+- **Conjure Image:**
+  - Illusion damage taken adjusted from 300 to 110%
+- **Metamorphosis:**
+  - Cooldown reduced from 150s to 70s
+- **Terror Wave Scepter:**
+  - Fear duration increased from 2s to 4s
+  - Scepter Metamorphosis duration increased from 10s to 15s
+  - Cooldown reduced from 90s to 30s
+
+### Bounty Hunter
+- **Jinada:**
+  - Cooldown reduced from 3s to 0s
+  - Gold steal adjusted from 12/20/28/36/44/52/60 to 50
+
+### Lycan
+- **Wolf Bite:**
+  - Cooldown reduced from 125/120/115/110/105/100/95 to 50
+- **Shapeshift:**
+  - Cooldown reduced from 125/110/95/89/83.5/78 to 40
+  - Speed increased from 550 to 1000
+  - Transform time reduced from 1.1s to 0.5s
+  - Crit chance increased from 40% to 80%
+  - Crit multiplier adjusted from 160/190/220/250/280/310 to 300/400/500/600/700/1000
+
+### Item
+- **Boot of Bearing:**
+  - Aura movement speed increased from 20 to 50
+
+### Added into Random Pool
+- "bounty_hunter_jinada"
+- "imba_magnataur_empower"
+- "lycan_shapeshift"
+
 
 <div align="center">
     <h1>3 Feb 2024</h1>
