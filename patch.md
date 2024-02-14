@@ -9,6 +9,57 @@
 </style>
 
 <div align="center">
+    <h1>14 Feb 2024</h1>
+</div>
+
+### Bounty Hunter
+- **Jinada:**
+  - Gold steal reduced from 50 to 25
+
+### Kunkka
+- **Tidebringer:**
+  - Cooldown reduced from 4s to 2s
+
+### Phantom Lancer
+- **Spirit Lance:**
+  - Illusion damage taken adjusted from 300% to 150%
+- **Juxtapose:**
+  - Illusion damage taken adjusted from 300% to 110%
+
+### Puck
+- **Dream Coil:**
+  - Cooldown reduced from 75s to 30s
+
+### Skywrath Mage
+- **Mystic Flare:**
+  - Radius increased from 170 to 400
+  - Duration increased from 2.2s to 3.2s
+
+### Snapfire
+- **Lil' Shredder:**
+  - Cooldown reduced from 12s to 5s
+
+### Void Spirit
+- **Astral Step:**
+  - Restore time reduced from 18s to 8s
+
+### Windranger
+- Focus Fire:
+  - Damage reduction adjusted to 16%
+  - Talent replaced: -16% Focus Fire Damage Reduction with 30% Critical Strike
+
+### Wraith King
+- **Mortal Strike:**
+  - Cooldown reduced to 2s
+
+### Added to Random Pool
+- "slardar_amplify_damage"
+- "slardar_bash"
+- "rubick_arcane_supremacy"
+- "lil_shredder"
+
+
+<div align="center">
     <h1>13 Feb 2024</h1>
 </div>
 
