@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.30 - 13/2/2024
+> EBF - Imbafied 0.0.31 - 16/2/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,67 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+    <h1>16 Feb 2024</h1>
+</div>
+
+<div align="center">
+    <h1>General</h1>
+</div>
+
+- Adjust HP, base damage, base armor for newgame+ (enemy)
+
+### Added to Random Pool
+- "Antimage Mana Break"
+- "Dark Willow Shadow Realm"
+- "Hoodwink Acorn Shot"
+
+<div align="center">
+    <h1>Heroes</h1>
+</div>
+
+### Chen
+- **Divine Favor:**
+  - Aura radius increased from 1200 to 3000
+
+### Clockwerk
+- **Overclocking:**
+  - Cooldown reduced from 30s to 20s
+- **Rocket Flare:**
+  - Damage adjusted from 900/1250/1800/3000/6000/11000/21000 to 1800/2500/3600/6000/12000/22000/42000
+  - Added 250% Rocket Flare Damage talent
+
+### Hoodwink
+- **Hunter Boomerang:**
+  - Cast range increased from 900 to 1500
+- **Acorn Shot:**
+  - Cooldown reduced from 10s to 5s
+- **Sharpshooter:**
+  - Changed damage type from magical to pure
+  - Cooldown reduced from 45s to 30s
+
+### Leshrac
+- **Pulse Nova:**
+  - Radius increased from 525 to 800
+
+### Nyx
+- Spiked Carapace:
+  - Damage reflected increased from 100% to 250%
+- Vendetta:
+  - Cooldown reduced from 60s to 25s
+
+<div align="center">
+    <h1>Items</h1>
+</div>
+
+### Reroll
+- 14569 gold to change your random ability
+
+### Revenant brooch
+- Item revenant brooch, damage output scaled per tier, from 60% to 100%. <br>There are several heroes that are prioritized for damage output, such as PA 25%, Alchemist 60%, Silencer 60% and Riki 60%.
+
+
 
 <div align="center">
     <h1>14 Feb 2024</h1>
