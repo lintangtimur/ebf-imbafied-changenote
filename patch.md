@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.31 - 16/2/2024
+> EBF - Imbafied 0.0.32 - 19/2/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,81 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+    <h1>19 Feb 2024</h1>
+</div>
+
+### Brewmaster
+- **Cinder Brew:**
+  - Cooldown reduced from 20s to 12s
+
+### Ember Spirit
+- **Sleight of Fist:**
+  - Recharge time reduced from 6s to 3s
+- **Flame Guard:**
+  - Damage absorption increased from 100% to 150%
+
+### Phantom Lancer
+- **Juxtapose:**
+  - Maximum illusions reduced from 4 to 2
+  - Illusion proc chance increased from 8% to 16%
+
+### Shadow Demon
+- **Disruption:**
+  - Illusion incoming damage reduced from 200% to 110%
+- **Disseminate:**
+  - Radius increased from 900 to 1500
+
+### Underlord
+- **Dark Rift:**
+  - Cooldown reduced to 30s
+- **Friends Gate:**
+  - Cooldown reduced to 30s
+
+### Void Spirit
+- **Astral Step:**
+  - Restore time reduced from -3 to -5
+
+### Warlock
+- **Fatal Bonds:**
+  - Shared damage increased from 12/16/20/24/28/32/36 to 20/24/28/32/36/44/52
+
+### Wraith King
+- **Reincarnation Scepter:**
+  - Aura radius reduced from 1200 to 400
+
+### Techies
+- **Land Mines:**
+  - Charges reduced from 25 to 15
+
+### Witch Doctor
+- **Death Ward (Ultimate):**
+  - Cooldown reduced from 60s to 40s
+
+### Items
+- **Bloodgem:**
+  - Bonus to all stats increased from 50 to 800
+
+### Random Pool Changes
+- Removed: WK Ult, Luna Moon Glaives
+- Added: 
+  - ember_spirit_flame_guard
+  - earthshaker_enchant_totem
+  - earthshaker_aftershock
+  - earthshaker_fissure
+  - bane_enfeeble
+  - bane_brain_sap
+  - chen_divine_favor
+  - chen_penitence
+  - chen_hand_of_god
+  - phoenix_supernova
+
+### Added Round 27 (Nightmare)
+
+### General
+- Reroll Ability Cost reduced from 14,000 to 10,000
+
 
 <div align="center">
     <h1>16 Feb 2024</h1>
