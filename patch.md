@@ -9,6 +9,39 @@
 </style>
 
 <div align="center">
+    <h1>27 Feb 2024</h1>
+</div>
+
+### Chen
+- **Hand of God:**
+  - Cooldown reduced from 110s to 80s
+
+### Disruptor
+- **Static Storm:**
+  - Radius increased from 900 to 1100
+
+### Doom
+- **Doom:**
+  - Cooldown reduced from 120s to 40s (not affected by cooldown reduction)
+
+### Dragon Knight
+- **Dragon Form:**
+  - Cooldown reduced from 100s to 75s
+
+### Earthshaker
+- **Echo Slam:**
+  - Cooldown reduced from 110s to 70s
+
+### Nullifier
+- Duration increased from 5s to 7s
+- Projectile speed increased from 1100 to 4000
+
+### Enemy
+- Starting from round 15, some bosses have Dispersion.
+- Dispersion has levels 1-3, increasing damage percentage and radius.
+
+
+<div align="center">
     <h1>19 Feb 2024</h1>
 </div>
 
