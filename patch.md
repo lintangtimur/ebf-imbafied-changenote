@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.32 - 19/2/2024
+> EBF - Imbafied 0.0.34 - 2/3/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,26 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+    <h1>2 March 2024</h1>
+</div>
+
+- Codex:
+  - Options increased from 4 to 5
+  - Cost reduced from 5000 to 3000
+- Level Book:
+  - Price reduced from 10k to 5k
+  - Heroes now gain 3 levels instead of 5 levels
+  - Maximum level capped at 75
+- Removed Mana Shield from the random pool
+- Adjusted enemy wave spawn interval for hard and challenger map
+- Strength Book, Agility Book, Intelligence Book not shareable, cost 20k
+- When successfully killing WK, there's a:
+  - 50% chance of obtaining a drop item in the form of a Stats Book (Strength/Agility/Intelligence)
+  - 100% chance of obtaining 1 Aegis
+- Fixed Doom talent (Mute) cooldown reduction
+- Fixed Armlet Azarot base level
 
 <div align="center">
     <h1>27 Feb 2024</h1>
