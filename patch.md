@@ -1,4 +1,4 @@
-> EBF - Imbafied 0.0.34 - 2/3/2024
+> EBF - Imbafied 0.0.35 - 16/3/2024
 <style>
   body {
   background-color: #151618;
@@ -7,6 +7,27 @@
   color: rgba(187,187,187,.9333333333);
   }
 </style>
+
+<div align="center">
+    <h1>16 March 2024</h1>
+</div>
+
+## General
+- Increased picking phase time from 20 to 60 seconds.
+
+## Challenger Map
+- Added bosses: Bounty Hunter, Alchemist, Zeus, and Razor.
+
+## Hard Map
+- Added bosses: Razor and Zeus.
+
+## Normal Map
+- Added the following items to the shop, costing 10k each: Book of Coup de Grace, Greevil, Kraken Shell, Jinada, Multicast.
+- Win streaks are not counted in this mode.
+
+## Nightmare
+- Reduced Zeus spawns from 5 to 3.
+- Reduced Razor's Eye of the Storm damage.
 
 <div align="center">
     <h1>2 March 2024</h1>
